@@ -1,25 +1,22 @@
-{
-    "pools" : [
-        {
-            "name" : "Hashblaster.com",
-            "url" : "https://hashblaster.com/",
-            "api" : "http://api.hashblaster.com/",
-            "type" : "forknote",
-            "miningAddress" : "hashblaster.com"
-        },
-        {
-            "name" : "CNCoin.cf",
-            "url" : "https://xmlc.cncoin.cf/",
-            "api" : "https://xmlc.cncoin.cf/api",
-            "type" : "forknote",
-            "miningAddress" : "xmlc.cncoin.cf"
-        },
-        {
-            "name" : "NBXPool.com",
-            "url" : "https://xmlc.nbxpool.com/",
-            "api" : "https://xmlc.nbxpool.com:8119",
-            "type" : "forknote",
-            "miningAddress" : "xmlc.nbxpool.com"
-        }
-    ]
-}
+[{
+		"name": "Hashblaster.com",
+		"url": "https://hashblaster.com/",
+		"api": "http://api.hashblaster.com/",
+		"type": "forknote",
+		"miningAddress": "hashblaster.com"
+	},
+	{
+		"name": "CNCoin.cf",
+		"url": "https://xmlc.cncoin.cf/",
+		"api": "https://xmlc.cncoin.cf/api",
+		"type": "forknote",
+		"miningAddress": "xmlc.cncoin.cf"
+	},
+	{
+		"name": "NBXPool.com",
+		"url": "https://xmlc.nbxpool.com/",
+		"api": "https://xmlc.nbxpool.com:8119",
+		"type": "forknote",
+		"miningAddress": "xmlc.nbxpool.com"
+	}
+]
